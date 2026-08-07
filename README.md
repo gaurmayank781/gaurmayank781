@@ -52,16 +52,17 @@ Building intelligent automation systems, scalable APIs and data-driven solutions
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gaurmayank781&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true"/>
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gaurmayank781&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurmayank781&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br><br>
-
-<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurmayank781&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gaurmayank781&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+<div align="center">
+
+<img width="700" src="https://github-readme-streak-stats.herokuapp.com?user=gaurmayank781&theme=tokyonight&hide_border=true"/>
+
+</div>
 ### 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/m-gaur">
