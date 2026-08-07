@@ -48,21 +48,55 @@ Building intelligent automation systems, scalable APIs and data-driven solutions
 
 ---
 
-## 📊 GitHub Stats
+---
+
+
+# 🚀 Professional Expertise
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gaurmayank781&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gaurmayank781&layout=compact&theme=tokyonight&hide_border=true"/>
+| 🤖 AI Automation | ⚡ Backend APIs | 📈 Quant Research | 📊 Data Analytics |
+|:----------------:|:--------------:|:----------------:|:----------------:|
+| Python Automation | FastAPI | Trading Bots | Pandas & NumPy |
 
 </div>
+
+<br>
 
 <div align="center">
 
-<img width="700" src="https://github-readme-streak-stats.herokuapp.com?user=gaurmayank781&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI-Automation-7B42BC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi"/>
+
+<img src="https://img.shields.io/badge/Quant-Research-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Trading-Bots-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge"/>
 
 </div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gaurmayank781&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gaurmayank781&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="750" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurmayank781&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+---
 ### 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/m-gaur">
