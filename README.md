@@ -48,9 +48,6 @@ Building intelligent automation systems, scalable APIs and data-driven solutions
 
 ---
 
----
-
-
 # 🚀 Professional Expertise
 
 <div align="center">
