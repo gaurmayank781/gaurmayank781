@@ -2,9 +2,9 @@
 
 # Mayank Gour
 
-**AI Automation Engineer · Python Backend Developer · Quantitative Researcher**
+**AI Automation · Python Backend · Quantitative Research**
 
-Building intelligent automation systems, scalable APIs, and data-driven trading solutions.
+Building intelligent automation, data-driven systems, and quantitative software with Python.
 
 [LinkedIn](https://www.linkedin.com/in/m-gaur) ·
 [Upwork](https://www.upwork.com/freelancers/~017fddafebf24bc61c?mp_source=share) ·
@@ -14,49 +14,31 @@ Building intelligent automation systems, scalable APIs, and data-driven trading 
 
 ---
 
-## About
+### What I Build
 
-I build **Python-based systems** that turn data, automation, and quantitative research into practical software.
+I work at the intersection of **AI, automation, backend engineering, and quantitative research**.
 
-My work focuses on:
+- AI-powered automation systems
+- Python APIs and backend services
+- Quantitative research & algorithmic trading systems
+- Data analytics and automated insight generation
 
-- AI & workflow automation
-- Python backend development
-- FastAPI services and APIs
-- Quantitative research & trading systems
-- Data analysis and decision-support tools
+### Stack
 
----
+`Python` · `FastAPI` · `SQL` · `Pandas` · `NumPy` · `MySQL` · `Streamlit` · `Git`
 
-## Tech Stack
+### Currently Building
 
-**Languages & Data**
+**Automation** — turning repetitive workflows into intelligent systems.
 
-`Python` `SQL` `Pandas` `NumPy`
+**Quant** — researching data-driven strategies and building trading infrastructure.
 
-**Backend & Applications**
-
-`FastAPI` `Streamlit`
-
-**Engineering**
-
-`Git` `GitHub` `VS Code` `MySQL`
+**Analytics** — transforming raw data into automated, actionable insights.
 
 ---
 
-## Focus
+<div align="center">
 
-| Area | What I Build |
-|---|---|
-| AI Automation | Intelligent workflows and automated systems |
-| Backend | Scalable Python APIs and services |
-| Quant | Research pipelines, strategies and trading systems |
-| Analytics | Data processing, analysis and automated insights |
+**Build → Research → Automate → Improve**
 
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/m-gaur) ·
-[Upwork](https://www.upwork.com/freelancers/~017fddafebf24bc61c?mp_source=share) ·
-[Email](mailto:gaurmayank781@gmail.com)
+</div>
