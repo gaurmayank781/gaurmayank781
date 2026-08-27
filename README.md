@@ -1,111 +1,62 @@
 <div align="center">
 
-# Hi 👋 I'm Mayank Gour
+# Mayank Gour
 
-### AI Automation Engineer • Python Backend Developer • Quantitative Researcher
+**AI Automation Engineer · Python Backend Developer · Quantitative Researcher**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+AI+Automation+Systems;FastAPI+Backend+Developer;Python+%7C+SQL+%7C+Pandas+%7C+NumPy;Quantitative+Researcher;Always+Building+Something+Awesome+🚀" />
+Building intelligent automation systems, scalable APIs, and data-driven trading solutions.
 
-<p>
-Building intelligent automation systems, scalable APIs and data-driven solutions using Python.
-</p>
-
-<p>
-
-<a href="mailto:gaurmayank781@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/m-gaur">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.upwork.com/freelancers/~017fddafebf24bc61c?mp_source=share">
-<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
-</a>
-
-</p>
+[LinkedIn](https://www.linkedin.com/in/m-gaur) ·
+[Upwork](https://www.upwork.com/freelancers/~017fddafebf24bc61c?mp_source=share) ·
+[Email](mailto:gaurmayank781@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 Tech Stack
+## About
 
-<p align="center">
+I build **Python-based systems** that turn data, automation, and quantitative research into practical software.
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,mysql,git,github,vscode"/>
+My work focuses on:
 
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-
-</p>
+- AI & workflow automation
+- Python backend development
+- FastAPI services and APIs
+- Quantitative research & trading systems
+- Data analysis and decision-support tools
 
 ---
 
-# 🚀 Professional Expertise
+## Tech Stack
 
-<div align="center">
+**Languages & Data**
 
-| 🤖 AI Automation | ⚡ Backend APIs | 📈 Quant Research | 📊 Data Analytics |
-|:----------------:|:--------------:|:----------------:|:----------------:|
-| Python Automation | FastAPI | Trading Bots | Pandas & NumPy |
+`Python` `SQL` `Pandas` `NumPy`
 
-</div>
+**Backend & Applications**
 
-<br>
+`FastAPI` `Streamlit`
 
-<div align="center">
+**Engineering**
 
-<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AI-Automation-7B42BC?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi"/>
-
-<img src="https://img.shields.io/badge/Quant-Research-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Trading-Bots-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge"/>
-
-</div>
+`Git` `GitHub` `VS Code` `MySQL`
 
 ---
 
-# 📊 GitHub Statistics
+## Focus
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gaurmayank781&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gaurmayank781&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="750" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurmayank781&theme=tokyonight&hide_border=true"/>
-
-</div>
+| Area | What I Build |
+|---|---|
+| AI Automation | Intelligent workflows and automated systems |
+| Backend | Scalable Python APIs and services |
+| Quant | Research pipelines, strategies and trading systems |
+| Analytics | Data processing, analysis and automated insights |
 
 ---
----
-### 🤝 Let's Connect
 
-<a href="https://www.linkedin.com/in/m-gaur">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+## Connect
 
-<a href="https://www.upwork.com/freelancers/~017fddafebf24bc61c?mp_source=share">
-<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork"/>
-</a>
-
-<a href="mailto:gaurmayank781@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/m-gaur) ·
+[Upwork](https://www.upwork.com/freelancers/~017fddafebf24bc61c?mp_source=share) ·
+[Email](mailto:gaurmayank781@gmail.com)
