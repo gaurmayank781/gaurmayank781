@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./logo.png" width="180" alt="Mayank Gour Logo">
+
 # Mayank Gour
 
 **AI Automation · Python Backend · Quantitative Research**
@@ -14,31 +16,31 @@ Building intelligent automation, data-driven systems, and quantitative software 
 
 ---
 
-### What I Build
+## What I Build
 
-I work at the intersection of **AI, automation, backend engineering, and quantitative research**.
+I build practical software at the intersection of **AI, automation, backend engineering, and quantitative research**.
 
 - AI-powered automation systems
 - Python APIs and backend services
-- Quantitative research & algorithmic trading systems
-- Data analytics and automated insight generation
+- Quantitative research and algorithmic trading systems
+- Data analytics and automated insights
 
-### Stack
+## Stack
 
 `Python` · `FastAPI` · `SQL` · `Pandas` · `NumPy` · `MySQL` · `Streamlit` · `Git`
 
-### Currently Building
+## Currently Building
 
-**Automation** — turning repetitive workflows into intelligent systems.
+**Automation** — intelligent systems for repetitive workflows.
 
-**Quant** — researching data-driven strategies and building trading infrastructure.
+**Quant** — data-driven research and trading infrastructure.
 
-**Analytics** — transforming raw data into automated, actionable insights.
+**Analytics** — turning raw data into automated, actionable insights.
 
 ---
 
 <div align="center">
 
-**Build → Research → Automate → Improve**
+**Build · Research · Automate · Improve**
 
 </div>
